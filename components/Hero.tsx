@@ -78,7 +78,7 @@ export default function Hero() {
                     </p>
 
                     <a
-                        href="https://wa.me/5493813279702"
+                        href="https://wa.me/5493813279702?text=Hola,%20me%20gustaría%20consultar%20para%20un%20proyecto,%20¿están%20disponibles?"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="group inline-flex items-center gap-2 bg-blue-600 text-white px-8 py-4 rounded-full font-medium transition-all hover:bg-blue-500 shadow-lg shadow-blue-900/20 mx-auto md:mx-0"

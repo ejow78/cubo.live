@@ -93,7 +93,7 @@ export default function Navbar() {
                         </a>
                     ))}
                     <a
-                        href="https://wa.me/5493813279702"
+                        href="https://wa.me/5493813279702?text=Hola,%20me%20gustaría%20consultar%20para%20un%20proyecto,%20¿están%20disponibles?"
                         target="_blank"
                         rel="noopener noreferrer"
                         className="bg-blue-600 hover:bg-blue-500 text-white px-5 py-2 rounded-full text-sm font-medium transition-colors text-center"
